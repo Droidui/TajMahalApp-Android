@@ -36,4 +36,6 @@ class MainActivity : AppCompatActivity() {
         val filter = BlurMaskFilter(radius, BlurMaskFilter.Blur.OUTER)
         binding.tvHeadingLight1.paint.maskFilter = filter
     }
+
+
 }
