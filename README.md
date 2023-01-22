@@ -4,10 +4,10 @@
 
 ## ScreenShot
 
-<a href="https://github.com/Droidui/TajMahalUi-App/tree/master/design/figma">
-    <img src="./design/ss/Samsung%20Galaxy%20S7%20Screenshot%201.png" width=300/>
-    <img src="./design/ss/Samsung%20Galaxy%20S7%20Screenshot%202.png" width=300/>
-</a>
+<p>
+    <img src="design/ss/ss1.png" width=300/>
+    <img src="design/ss/ss2.png" width=300/>
+</p>
 
 ## Contributing
 
@@ -23,4 +23,4 @@ The TajMahalUi-App was created by the Droidui team.
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the *[LICENSE](./LICENSE)* file for details.
+This project is licensed under the Apache License 2.0. See the _[LICENSE](./LICENSE)_ file for details.
