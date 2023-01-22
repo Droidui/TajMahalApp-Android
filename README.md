@@ -11,7 +11,7 @@
 
 ## Contributing
 
-If you are interested in contributing to the development of the **[TajMahalUi-App](https://github.com/Droidui/TajMahalUi-App)**, please visit the GitHub repository and submit a pull request with your proposed changes.
+If you are interested in contributing to the development of the **[TajMahalApp](https://github.com/Droidui/TajMahalApp-Android)**, please visit the GitHub repository and submit a pull request with your proposed changes.
 
 ## Support
 
