@@ -1,6 +1,6 @@
-# Taj Mahal Ui App Android
+# Taj Mahal App Android
 
-**⭐💛Beautiful Taj Mahal Ui Application using Android Studio(Kotlin)😇😇🌟🌟**
+**⭐💛Beautiful Taj Mahal Application using Android Studio(Kotlin)😇😇🌟🌟**
 
 ## ScreenShot
 
