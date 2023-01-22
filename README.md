@@ -5,7 +5,8 @@
 ## ScreenShot
 
 <a href="https://github.com/Droidui/TajMahalUi-App/tree/master/design/figma">
-    <img src="./design/figma/HomeScreen.png" width=300/>
+    <img src="./design/ss/Samsung%20Galaxy%20S7%20Screenshot%201.png" width=300/>
+    <img src="./design/ss/Samsung%20Galaxy%20S7%20Screenshot%202.png" width=300/>
 </a>
 
 ## Contributing
