@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/overlock_sc"
             android:letterSpacing="0.05"
-            android:text="Login"
+            android:text="Login
             android:textAlignment="center"
             android:textColor="@color/color2"
             android:textSize="40sp" />
